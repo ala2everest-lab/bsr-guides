@@ -6,7 +6,7 @@ description: Category A or B decides how much paperwork your BSR application nee
 reviewed: 2026-10-26
 reviewed_human: 26 October 2026
 ---
-If you are planning work to a flat in a higher-risk building (HRB) in England, the Building Safety Regulator (BSR) will put it in one of two categories: Category A or Category B. Both need BSR building control approval before work starts. The category decides how much information you must submit with the application, and choosing the wrong one is a common reason applications are rejected.
+If you are planning work to a flat in a higher-risk building (HRB) in England, the Building Safety Regulator (BSR) will put it in one of two categories: Category A or Category B. Both need BSR building control approval before work starts. The category decides how much information you must submit with the application, and GOV.UK warns that applying under the wrong one is likely to get the application rejected.
 
 This guide explains what each category means, how typical flat projects fall, and what the government's 2026 proposals might change. It is general information, not legal advice or a building control decision.
 
@@ -78,11 +78,11 @@ Two points catch people out:
 4. **Check fire safety information early.** Ask the building's accountable person for the fire risk assessment and any fire strategy, so you know which walls, doors and floors are fire-resisting.
 5. **If in doubt, get professional advice.** A building surveyor, fire engineer or building control professional can help you choose the category and prepare the documents. See Which professionals do I need for a BSR application?
 
-GOV.UK warns that applying under the wrong category is likely to lead to rejection. Starting with the category that fits the work avoids a resubmission.
+Starting with the category that fits the work avoids a rejection and a resubmission.
 
 ## What the 2026 reforms might change
 
-The government accepts that the current line catches too much small work. Its March 2026 [consultation on categorising HRB work](https://www.gov.uk/government/consultations/proportionality-in-building-control-categorisation-of-higher-risk-building-work/improving-proportionality-and-building-safety-outcomes-in-building-control-categorisation-of-higher-risk-building-work) found that 1,944 non-cladding Category A applications, roughly 46% of the total, included relatively minor works. Replacing a single fire door in a flat was one example.
+The government accepts that the current line catches too much small work. Its March 2026 [consultation on categorising HRB work](https://www.gov.uk/government/consultations/proportionality-in-building-control-categorisation-of-higher-risk-building-work/improving-proportionality-and-building-safety-outcomes-in-building-control-categorisation-of-higher-risk-building-work) says the 2023 rules have unintentionally pulled some relatively small or minor works into Category A. BSR had received 1,944 Category A applications for non-cladding work, roughly 46% of all non-cladding applications. Replacing a single fire door in a flat was the example given.
 
 It proposed two changes:
 
