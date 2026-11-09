@@ -65,7 +65,7 @@ BSR has up to 8 weeks to decide an application for work to an existing HRB, unle
 BSR approval is only one of the consents involved:
 
 - **Freeholder consent.** You hold two leases, and both will normally restrict alterations. Joining the flats may also need the leases varied or merged, which is a legal question to raise early with your solicitor. See Lease consent, freeholder consent and BSR approval.
-- **The accountable person.** Each HRB has an accountable person responsible for building safety in the common parts, usually the freeholder or management company. The building's registration with the BSR records information about the building, including its residential units, so talk to them before you finalise the design.
+- **The accountable person.** Each HRB has an accountable person responsible for building safety in the common parts, usually the freeholder or management company. A merger changes the building they are responsible for, so talk to them before you finalise the design.
 - **Planning.** Some London boroughs have policies resisting the loss of homes, including where flats are combined. Check with your local planning authority before you commit.
 
 ## Before you start
