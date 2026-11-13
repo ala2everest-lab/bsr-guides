@@ -3,6 +3,7 @@ slug: after-bsr-approval-flat-works-completion-certificate
 h1: After BSR approval: notices, changes and the completion certificate for flat works
 title: After BSR Approval: Flat Works to Completion Certificate
 description: Got BSR approval for works to a flat in a high-rise block? The notices to give, how design changes are handled, and how to get the completion certificate.
+published: 2026-11-09
 reviewed: 2026-11-09
 reviewed_human: 9 November 2026
 ---

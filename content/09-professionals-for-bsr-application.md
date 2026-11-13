@@ -3,8 +3,9 @@ slug: professionals-for-bsr-application
 h1: Which professionals do I need for a BSR application?
 title: Who Do You Need for a BSR Application?
 description: The client, principal designer and principal contractor roles in a BSR application, the documents needed, and what to check before you hire.
-reviewed: 2026-10-15
-reviewed_human: 15 October 2026
+published: 2026-10-24
+reviewed: 2026-11-13
+reviewed_human: 13 November 2026
 ---
 The Building Safety Regulator (BSR) does not say you must use one particular type of professional. What it requires is that the application names a client, a principal designer and a principal contractor, and that it includes a set of technical documents showing how the work will meet building regulations ([GOV.UK](https://www.gov.uk/guidance/preparing-information-for-a-building-control-approval-application)). GOV.UK adds that if you need help with your application, you can get advice from a competent contractor or other building control professional.
 
@@ -14,7 +15,7 @@ The Building Safety Regulator (BSR) does not say you must use one particular typ
 - **Principal designer.** Named in the application. Their duties are set out in GOV.UK's guidance, [Design and building work: meeting building requirements](https://www.gov.uk/guidance/design-and-building-work-meeting-building-requirements).
 - **Principal contractor.** Also named in the application. They create and maintain the change control log that records changes made during the build.
 
-If someone other than the client submits the application, they must upload written proof that the client authorised it.
+If someone other than the client submits the application, they must upload written proof that the client authorised it. If the client, principal designer or principal contractor changes after you apply, you must tell BSR using its online service.
 
 ## What the client must declare
 
@@ -26,7 +27,7 @@ For work on an existing higher-risk building, expect to provide:
 
 - drawings and plans, and a description of the proposed work
 - a building regulations compliance statement
-- a change control plan and a construction control plan
+- a change control plan and a construction control plan (GOV.UK warns that uploading a construction phase health and safety plan in place of the construction control plan can get the application rejected)
 - the client's competence declaration
 - a fire and emergency file for category A work, or a fire compliance statement for category B work that might affect the spread of fire
 - a mandatory occurrence reporting plan
@@ -50,4 +51,4 @@ We may receive a referral fee from consultants we recommend if you instruct them
 
 Not sure whether you need an application at all? Try the [BSR screener](https://bsrhrb.com).
 
-Sources: [GOV.UK, Preparing information for a building control approval application](https://www.gov.uk/guidance/preparing-information-for-a-building-control-approval-application) (updated 1 October 2026); [GOV.UK, Building control approval for higher-risk buildings](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings) (updated 1 October 2026).
+Sources: [GOV.UK, Preparing information for a building control approval application](https://www.gov.uk/guidance/preparing-information-for-a-building-control-approval-application) (updated 1 October 2026); [GOV.UK, Building control approval for higher-risk buildings](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings) (updated 1 October 2026). Both checked 13 November 2026.

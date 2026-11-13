@@ -3,8 +3,9 @@ slug: lease-freeholder-consent-and-bsr-approval
 h1: Lease consent, freeholder consent and BSR approval: what is the difference?
 title: Lease Consent vs BSR Approval for Flat Alterations
 description: Your freeholder's consent, planning permission and BSR approval are separate. Here is what each covers and the order to sort them out.
-reviewed: 2026-10-15
-reviewed_human: 15 October 2026
+published: 2026-10-24
+reviewed: 2026-11-13
+reviewed_human: 13 November 2026
 ---
 They are separate permissions, and having one does not replace the others. LEASE, the government-funded leasehold advice service, says you still need your landlord's consent if your lease requires it, even if you already have planning permission or building regulations approval ([LEASE](https://www.lease-advice.org/building-management/repairs/alterations-and-home-improvements/)). The same is true the other way round: your freeholder saying yes does not give you BSR approval.
 
@@ -41,4 +42,4 @@ Work without landlord consent breaks the terms of your lease. One council tells 
 
 If you are unsure, take advice from a solicitor on lease matters and a building control professional on BSR approval. This page covers general principles, and your own lease may differ.
 
-Sources: [LEASE, Alterations and home improvements](https://www.lease-advice.org/building-management/repairs/alterations-and-home-improvements/); [GOV.UK, Building regulations approval](https://www.gov.uk/building-regulations-approval); [Hounslow Council](https://www.hounslow.gov.uk/council-leaseholders-freeholders-shared-owners/making-alterations-home-leaseholder); [Haringey Council](https://www.haringey.gov.uk/housing/leaseholders/leasehold-properties/leasehold-home-alterations).
+Sources: [LEASE, Alterations and home improvements](https://www.lease-advice.org/building-management/repairs/alterations-and-home-improvements/); [GOV.UK, Building regulations approval](https://www.gov.uk/building-regulations-approval); [Hounslow Council](https://www.hounslow.gov.uk/council-leaseholders-freeholders-shared-owners/making-alterations-home-leaseholder); [Haringey Council](https://www.haringey.gov.uk/housing/leaseholders/leasehold-properties/leasehold-home-alterations). GOV.UK guidance checked 13 November 2026.

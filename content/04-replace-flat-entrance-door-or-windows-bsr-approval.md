@@ -3,8 +3,9 @@ slug: replace-flat-entrance-door-or-windows-bsr-approval
 h1: Do I need approval to replace my flat entrance door or windows?
 title: Replacing a Flat Door or Windows: BSR Approval?
 description: Replacing a flat entrance door or windows in a higher-risk building may need BSR approval. See what GOV.UK exempts and what to check first.
-reviewed: 2026-10-15
-reviewed_human: 15 October 2026
+published: 2026-10-24
+reviewed: 2026-11-13
+reviewed_human: 13 November 2026
 ---
 It depends, and with both jobs you should check before you order anything. In a higher-risk building, replacing windows is not covered by the main exemption for repairs and replacements, and a flat entrance door is a fire door, which brings fire safety into the picture.
 
@@ -31,4 +32,4 @@ You may not own every part. In most cases the entrance door is part of the flat 
 
 Try the [BSR screener](https://bsrhrb.com) to see how your plans look against the triggers.
 
-Sources: [GOV.UK, Building control approval for higher-risk buildings](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings) (updated 1 October 2026); [Hounslow Council, flat entrance door guidance](https://www.hounslow.gov.uk/fire-building-safety/flat-entrance-fire-door-upgrades); [Hounslow Council, making alterations as a leaseholder](https://www.hounslow.gov.uk/council-leaseholders-freeholders-shared-owners/making-alterations-home-leaseholder); [LEASE, Replacing your fire door](https://www.lease-advice.org/building-management/fire-safety/fire-doors/replacing-a-fire-door/).
+Sources: [GOV.UK, Building control approval for higher-risk buildings](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings) (updated 1 October 2026); [Hounslow Council, flat entrance door guidance](https://www.hounslow.gov.uk/fire-building-safety/flat-entrance-fire-door-upgrades); [Hounslow Council, making alterations as a leaseholder](https://www.hounslow.gov.uk/council-leaseholders-freeholders-shared-owners/making-alterations-home-leaseholder); [LEASE, Replacing your fire door](https://www.lease-advice.org/building-management/fire-safety/fire-doors/replacing-a-fire-door/). GOV.UK guidance checked 13 November 2026.

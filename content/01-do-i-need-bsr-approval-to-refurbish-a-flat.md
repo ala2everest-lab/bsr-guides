@@ -3,8 +3,9 @@ slug: do-i-need-bsr-approval-to-refurbish-a-flat
 h1: Do I need BSR approval to refurbish a flat in a high-rise block?
 title: Do I Need BSR Approval to Refurbish a High-Rise Flat? (England)
 description: If your block is a higher-risk building, most flat refurbishment work needs Building Safety Regulator approval before it starts. What triggers it, what's exempt and how long it takes.
-reviewed: 2026-10-15
-reviewed_human: 15 October 2026
+published: 2026-10-24
+reviewed: 2026-11-13
+reviewed_human: 13 November 2026
 ---
 ## The short answer
 
@@ -12,7 +13,7 @@ Probably yes, if your building is a higher-risk building in England and your ref
 
 If your building is not higher-risk, BSR is not involved. Building control for those buildings is handled by your local authority or a registered building control approver ([GOV.UK](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings)).
 
-This guide is general information based on GOV.UK guidance last updated on 1 October 2026. It is not legal advice or a building control decision.
+This guide is general information based on GOV.UK guidance last updated on 1 October 2026, checked again on 13 November 2026. It is not legal advice or a building control decision.
 
 ## What counts as a higher-risk building?
 
@@ -28,7 +29,7 @@ To check your building:
 
 For an existing higher-risk building, you must get approval from the Building Safety Regulator (BSR) before starting any building work, unless the work is only exempt work, competent person scheme work, certain fibre optic cabling work or an emergency repair ([GOV.UK, updated 1 October 2026](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings)).
 
-GOV.UK classes building work as category A if it involves any of these, and a flat refurbishment can easily touch several:
+GOV.UK lists eight kinds of category A work. These are the six a flat refurbishment is most likely to touch, and one project can easily touch several:
 
 - changing the internal layout, for example moving or removing walls
 - changing the number of residential units, for example joining two flats or splitting one
@@ -39,7 +40,18 @@ GOV.UK classes building work as category A if it involves any of these, and a fl
 
 Any other building work that is not exempt is category B, and it still needs approval. Applying under the wrong category is likely to get your application rejected.
 
-This list is guidance on how BSR classes work, not a full list of what needs approval. If you are not sure whether your plan counts, ask a competent contractor or other building control professional, or contact BSR before you start.
+This list is guidance on how BSR classes work, not a full list of what needs approval. If you are not sure whether your plan counts, ask a competent contractor or other building control professional, or contact BSR before you start. For a fuller explanation, see [Category A or Category B? How BSR classifies work in a high-rise flat](../category-a-vs-category-b-work-hrb-flat/).
+
+## Changes on the way
+
+The government has accepted that the current rules catch a lot of small work. In its [response of 9 July 2026](https://www.gov.uk/government/consultations/proportionality-in-building-control-categorisation-of-higher-risk-building-work/outcome/improving-proportionality-and-building-safety-outcomes-in-building-control-categorisation-of-higher-risk-building-work-government-response) to a consultation on the categories, it said it is minded to take most work inside flats out of category A, so it would be category B instead. Work affecting active fire safety measures, load-bearing walls or external walls (other than windows) would stay category A.
+
+Two points matter for your project now:
+
+- **The change has not happened yet.** As of 13 November 2026 the current rules still apply, so plan on them.
+- **Category B still needs approval.** The proposal would reduce the paperwork for many flat projects, not remove the need for BSR approval.
+
+A separate consultation on widening the emergency repairs route closed on 3 September 2026. The government has not yet published its response.
 
 ## Work that usually does not need BSR approval
 
@@ -85,11 +97,21 @@ The one exception is a genuine emergency repair, meaning work to manage an urgen
 4. **If approval is needed, plan it before you plan the build.** The client must make sure approval is granted before work starts. The client can nominate someone else to apply, but the legal responsibility stays with the client. A resident can apply for work on their own home, and you can get advice from a competent contractor or other building control professional ([GOV.UK](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings)). We may receive a referral fee from consultants we recommend if you instruct them. This does not change your screening result, and you are free to use any consultant you choose.
 5. **Check other permissions.** You may also need planning permission, and your lease may require your freeholder's consent. These are separate from BSR approval.
 
+## Guides for common projects
+
+- [Kitchen and bathroom refits in a high-rise flat](../kitchen-bathroom-refit-high-rise-flat/)
+- [Removing or moving a wall](../remove-or-move-wall-high-rise-flat/)
+- [Joining two flats in a high-rise block](../joining-two-flats-high-rise-block/)
+- [Replacing windows in a high-rise flat](../replacing-windows-in-a-high-rise-flat/)
+- [After BSR approval: notices, changes and the completion certificate](../after-bsr-approval-flat-works-completion-certificate/)
+
 ## Sources
 
-Pages opened on 15 October 2026:
+Pages opened on 13 November 2026:
 
 - [Building control approval for higher-risk buildings](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings), GOV.UK (Building Safety Regulator), last updated 1 October 2026
 - [Criteria for determining whether a building is a higher-risk building during the occupation phase](https://www.gov.uk/guidance/criteria-for-being-a-higher-risk-building-during-the-occupation-phase-of-the-new-higher-risk-regime), GOV.UK, last updated 28 May 2025
+- [Categorisation of higher-risk building work: government response](https://www.gov.uk/government/consultations/proportionality-in-building-control-categorisation-of-higher-risk-building-work/outcome/improving-proportionality-and-building-safety-outcomes-in-building-control-categorisation-of-higher-risk-building-work-government-response), GOV.UK, 9 July 2026
+- [Emergency repairs under the higher-risk building regime: consultation](https://www.gov.uk/government/consultations/improving-proportionality-and-building-safety-outcomes-in-building-control-emergency-repairs-under-the-higher-risk-building-regime), GOV.UK, closed 3 September 2026
 
 Linked from the first page above: [register of high-rise residential buildings](https://www.gov.uk/guidance/find-a-high-rise-residential-building) and the [BSR charging scheme](https://www.gov.uk/government/publications/building-safety-regulator-charging-scheme).

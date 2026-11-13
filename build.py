@@ -150,6 +150,7 @@ def build():
             "headline": p["h1"],
             "description": p["description"],
             "author": {"@type": "Person", "name": AUTHOR, "jobTitle": "Building Surveyor and BSR compliance consultant"},
+            "datePublished": p.get("published", p["reviewed"]),
             "dateModified": p["reviewed"],
             "mainEntityOfPage": canonical,
             "inLanguage": "en-GB",

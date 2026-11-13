@@ -3,8 +3,9 @@ slug: what-is-a-higher-risk-building
 h1: What is a higher-risk building?
 title: What Is a Higher-Risk Building? (England)
 description: In England, a higher-risk building is at least 18 metres or 7 storeys with two or more homes. See how it's measured and how to check yours.
-reviewed: 2026-10-15
-reviewed_human: 15 October 2026
+published: 2026-10-24
+reviewed: 2026-11-13
+reviewed_human: 13 November 2026
 ---
 In England, a higher-risk building is a building that is at least 18 metres high or has at least 7 storeys, and that contains at least two residential units ([GOV.UK](https://www.gov.uk/guidance/criteria-for-being-a-higher-risk-building-during-the-occupation-phase-of-the-new-higher-risk-regime)). A flat counts as a residential unit whether it is owned, privately rented or social rented. If your building meets both tests, work inside your flat may need approval from the Building Safety Regulator (BSR).
 
@@ -32,4 +33,4 @@ This definition applies to the higher-risk regime only. Other rules, such as the
 
 See How do I find out whether my building is higher-risk?, then try the [BSR screener](https://bsrhrb.com).
 
-Source: [GOV.UK, Criteria for being a higher-risk building during the occupation phase](https://www.gov.uk/guidance/criteria-for-being-a-higher-risk-building-during-the-occupation-phase-of-the-new-higher-risk-regime), last updated 28 May 2025.
+Source: [GOV.UK, Criteria for being a higher-risk building during the occupation phase](https://www.gov.uk/guidance/criteria-for-being-a-higher-risk-building-during-the-occupation-phase-of-the-new-higher-risk-regime), last updated 28 May 2025, checked 13 November 2026. The roof garden position above is still the government's stated view, and no change to the regulations has been made yet.
