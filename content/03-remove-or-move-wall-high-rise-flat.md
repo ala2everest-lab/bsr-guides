@@ -3,14 +3,19 @@ slug: remove-or-move-wall-high-rise-flat
 h1: Can I remove or move a wall in a high-rise flat?
 title: Moving or Removing a Wall in a High-Rise Flat
 description: Changing the internal layout of a flat in a higher-risk building usually needs BSR approval first. Here is what counts and what to do before you start.
-reviewed: 2026-10-15
-reviewed_human: 15 October 2026
+published: 2026-10-24
+reviewed: 2026-11-13
+reviewed_human: 13 November 2026
 ---
-In a higher-risk building in England, probably yes, but you need approval from the Building Safety Regulator (BSR) before you start. GOV.UK classes any change to the internal layout as category A building work, and approval is needed for building work to an existing higher-risk building unless it is only exempt work, competent person scheme work or an emergency repair ([GOV.UK](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings)).
+In a higher-risk building in England, probably yes, but you need approval from the Building Safety Regulator (BSR) before you start. GOV.UK classes any change to the internal layout as category A building work, and approval is needed for building work to an existing higher-risk building unless it is only exempt work, competent person scheme work, certain fibre optic cabling work or an emergency repair ([GOV.UK](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings)).
 
 ## It does not matter whether the wall is load-bearing
 
 People often ask whether the wall is structural. For approval, the layout change itself is the trigger. Moving, removing or adding a wall or door changes the internal layout, so it falls into category A even if the wall carries no load. A structural wall adds structural questions on top.
+
+## What may change
+
+In July 2026 the government said it is minded to take most work inside flats out of category A ([GOV.UK response](https://www.gov.uk/government/consultations/proportionality-in-building-control-categorisation-of-higher-risk-building-work/outcome/improving-proportionality-and-building-safety-outcomes-in-building-control-categorisation-of-higher-risk-building-work-government-response)). If that goes ahead, moving a non-load-bearing wall inside your flat could become category B, which needs less paperwork. Work on load-bearing walls would stay category A. Either way, the work would still need BSR approval. As of 13 November 2026 the rules have not changed, so apply the current ones. See Category A or Category B? How BSR classifies work in a high-rise flat for the detail.
 
 ## Why BSR cares about walls
 
@@ -27,6 +32,8 @@ The application is detailed. For a category A job it includes the proposed drawi
 3. Check your lease. Your freeholder's consent is separate from BSR approval. See Lease consent, freeholder consent and BSR approval.
 4. Do not start strip-out or demolition until approval is granted. Starting without it is a criminal offence, and the BSR can take up to 8 weeks to decide. See How long does BSR approval take?
 
+If you are taking out walls to combine two flats, read Joining two flats in a high-rise block: what BSR approval involves.
+
 Not sure whether your plans count? Try the [BSR screener](https://bsrhrb.com).
 
-Sources: [GOV.UK, Building control approval for higher-risk buildings](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings) (updated 1 October 2026); [GOV.UK, Preparing information for a building control approval application](https://www.gov.uk/guidance/preparing-information-for-a-building-control-approval-application) (updated 1 October 2026).
+Sources: [GOV.UK, Building control approval for higher-risk buildings](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings) (updated 1 October 2026); [GOV.UK, Preparing information for a building control approval application](https://www.gov.uk/guidance/preparing-information-for-a-building-control-approval-application) (updated 1 October 2026); [GOV.UK, Categorisation of higher-risk building work: government response](https://www.gov.uk/government/consultations/proportionality-in-building-control-categorisation-of-higher-risk-building-work/outcome/improving-proportionality-and-building-safety-outcomes-in-building-control-categorisation-of-higher-risk-building-work-government-response) (9 July 2026). All checked 13 November 2026.

@@ -3,6 +3,7 @@ slug: kitchen-bathroom-refit-high-rise-flat
 h1: Kitchen and bathroom refits in a high-rise flat: when do you need BSR approval?
 title: Kitchen and Bathroom Refits in a High-Rise Flat
 description: Some kitchen and bathroom work in a higher-risk building is exempt; some needs BSR approval. How to tell, item by item, before you book a fitter.
+published: 2026-11-02
 reviewed: 2026-11-02
 reviewed_human: 2 November 2026
 ---

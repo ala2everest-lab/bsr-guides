@@ -3,6 +3,7 @@ slug: category-a-vs-category-b-work-hrb-flat
 h1: Category A or Category B? How BSR classifies work in a high-rise flat
 title: Category A vs Category B Work in a High-Rise Flat
 description: Category A or B decides how much paperwork your BSR application needs. What each category covers, typical flat examples, and the 2026 reforms.
+published: 2026-10-26
 reviewed: 2026-10-26
 reviewed_human: 26 October 2026
 ---

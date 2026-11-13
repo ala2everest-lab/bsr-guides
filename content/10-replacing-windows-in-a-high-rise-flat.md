@@ -3,8 +3,9 @@ slug: replacing-windows-in-a-high-rise-flat
 h1: Replacing Windows in a High-Rise Flat: Why the FENSA Route Doesn't Work, and What 2026 Might Change
 title: Replacing Windows in a High-Rise Flat: FENSA, BSR and 2026 Reforms
 description: Why FENSA self-certification doesn't work for windows in flats over 18 metres, what that means for BSR approval, and what the 2026 reforms might change.
-reviewed: 2026-10-23
-reviewed_human: 23 October 2026
+published: 2026-10-24
+reviewed: 2026-11-13
+reviewed_human: 13 November 2026
 ---
 If you own a flat in a building of 18 metres or more, you probably cannot replace your windows the way your friends in a terraced house can. That surprises almost everyone I speak to.
 
@@ -16,7 +17,7 @@ This article sets out where things stand in October 2026, why the gap exists, an
 
 Since October 2023, BSR has been the building control authority for HRBs in England. For existing buildings, that means buildings of at least 18 metres or 7 storeys with two or more residential units.
 
-[GOV.UK guidance](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings) says you need BSR building control approval before starting building work to an existing HRB. There are three exceptions: exempt work, work done under a competent person scheme (CPS), and emergency repairs.
+[GOV.UK guidance](https://www.gov.uk/guidance/building-control-approval-for-higher-risk-buildings) says you need BSR building control approval before starting building work to an existing HRB. There are four exceptions: exempt work, work done under a competent person scheme (CPS), certain fibre optic cabling work, and emergency repairs. Only the CPS route is relevant to windows, because glazing units are expressly left out of the exemption for repairs and replacements.
 
 Replacing a window counts as building work under the Building Regulations, but it is also classic CPS work. In theory, then, a CPS installer could self-certify a window replacement in an HRB flat without going to BSR at all.
 
@@ -34,9 +35,9 @@ I saw this first-hand on a recent project at a landmark residential building in 
 
 The government has accepted that parts of the HRB regime are disproportionate for small works, and 2026 brought several signals of change.
 
-- **Category A and B.** Work to existing HRBs is split into Category A and Category B. Both need BSR building control approval, but Category B applications carry lighter information requirements. In March 2026 the government consulted on redrawing that line. Its response on 9 July said it is minded to move most work inside residential units into Category B. No final decision has been made.
+- **Category A and B.** Work to existing HRBs is split into Category A and Category B. Both need BSR building control approval, but Category B applications carry lighter information requirements. In March 2026 the government consulted on redrawing that line. Its response on 9 July said it is minded to move most work inside residential units into Category B. As of 13 November 2026, no final decision has been made and the rules have not changed.
 - **Windows specifically.** The consultation set out two options. Option 1 takes work inside individual flats out of Category A; Option 2 does the same for small-scale works in communal areas. The small-scale test (roughly a team of three or fewer, or up to five working days, with no impact on active fire safety systems, load-bearing walls or external walls) expressly carves building work to windows out of the external wall restriction. That is an encouraging signal for window replacements, but the final rules have not yet confirmed how windows in flats will be treated.
-- **A role for competent person schemes.** The same consultation asked whether new competent person schemes could cover more Category B work. A separate consultation, which closed on 3 September 2026, proposed widening "emergency repairs" to "emergency works" or creating a new "critical works" route, and asked whether some emergency works could be self-certified.
+- **A role for competent person schemes.** The same consultation asked whether new competent person schemes could cover more Category B work. A separate consultation, which closed on 3 September 2026, proposed widening "emergency repairs" to "emergency works" or creating a new "critical works" route, and asked whether some emergency works could be self-certified. As of 13 November 2026, the government has not published its response.
 - **BSR's own direction.** Since January 2026, BSR has been a standalone body under MHCLG. Its 2026–27 plan includes a fundamental review of guidance to the building regulations.
 
 One more date matters for anyone specifying windows: the 2026 edition of Approved Document L for dwellings applies to HRB work from 24 September 2027, six months after other buildings.
@@ -72,7 +73,8 @@ For now, the FENSA route is closed in high-rise buildings, and window replacemen
 - [GGF: FENSA announcement on installations in buildings higher than 18m](https://www.ggf.org.uk/fensa-announcement-for-installations-in-buildings-higher-than-18m/)
 - [WhatDoTheyKnow: FOI request on building control for windows in HRBs](https://www.whatdotheyknow.com/request/building_control_for_windows_and)
 - [MHCLG: Redefining Category A building work consultation](https://consult.communities.gov.uk/higher-risk-buildings/redefining-category-a-building-work-consultation)
-- [GOV.UK: Categorisation of higher-risk building work, consultation response](https://www.gov.uk/government/consultations/proportionality-in-building-control-categorisation-of-higher-risk-building-work/improving-proportionality-and-building-safety-outcomes-in-building-control-categorisation-of-higher-risk-building-work)
+- [GOV.UK: Categorisation of higher-risk building work, consultation](https://www.gov.uk/government/consultations/proportionality-in-building-control-categorisation-of-higher-risk-building-work/improving-proportionality-and-building-safety-outcomes-in-building-control-categorisation-of-higher-risk-building-work)
+- [GOV.UK: Categorisation of higher-risk building work, government response (9 July 2026)](https://www.gov.uk/government/consultations/proportionality-in-building-control-categorisation-of-higher-risk-building-work/outcome/improving-proportionality-and-building-safety-outcomes-in-building-control-categorisation-of-higher-risk-building-work-government-response)
 - [GOV.UK: Emergency repairs under the higher-risk building regime, consultation](https://www.gov.uk/government/consultations/improving-proportionality-and-building-safety-outcomes-in-building-control-emergency-repairs-under-the-higher-risk-building-regime/improving-proportionality-and-building-safety-outcomes-in-building-control-emergency-repairs-under-the-higher-risk-building-regime)
 - [GOV.UK: Building Safety Regulator strategic plan 2026 to 2027](https://www.gov.uk/government/publications/building-safety-regulator-strategic-plan-2026-to-2027/building-safety-regulator-strategic-plan-2026-to-2027)
 - [Wedlake Bell: Government moves to make HRB requirements more proportionate](https://wedlakebell.com/insights/articles/government-moves-to-make-higher-risk-building-safety-requirements-more-proportionate/)

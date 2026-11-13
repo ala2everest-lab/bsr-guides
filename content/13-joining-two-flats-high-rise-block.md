@@ -3,6 +3,7 @@ slug: joining-two-flats-high-rise-block
 h1: Joining two flats in a high-rise block: what BSR approval involves
 title: Joining Two Flats in a High-Rise Block: BSR Approval
 description: Combining two flats in a higher-risk building is always Category A work for the BSR. What triggers it, the fire and structural questions, and how to plan.
+published: 2026-11-09
 reviewed: 2026-11-09
 reviewed_human: 9 November 2026
 ---

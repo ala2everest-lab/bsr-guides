@@ -3,8 +3,9 @@ slug: how-to-check-if-building-is-higher-risk
 h1: How do I find out whether my building is higher-risk?
 title: How to Check if Your Building Is Higher-Risk (England)
 description: Search the BSR's public register by postcode, ask your managing agent, and learn what to do if your building is not listed.
-reviewed: 2026-10-15
-reviewed_human: 15 October 2026
+published: 2026-10-24
+reviewed: 2026-11-13
+reviewed_human: 13 November 2026
 ---
 There are three checks, in this order: search the Building Safety Regulator's (BSR) public register by postcode, ask your managing agent or freeholder, and if you are still unsure, contact BSR.
 
@@ -30,4 +31,4 @@ Contact BSR through its [contact page](https://www.gov.uk/guidance/contact-the-b
 
 Once you know your building is higher-risk, read Do I need BSR approval to refurbish a flat in a high-rise block? or try the [BSR screener](https://bsrhrb.com).
 
-Sources: [GOV.UK, Find a high-rise residential building](https://www.gov.uk/guidance/find-a-high-rise-residential-building); [GOV.UK, Criteria for being a higher-risk building during the occupation phase](https://www.gov.uk/guidance/criteria-for-being-a-higher-risk-building-during-the-occupation-phase-of-the-new-higher-risk-regime) (updated 28 May 2025).
+Sources: [GOV.UK, Find a high-rise residential building](https://www.gov.uk/guidance/find-a-high-rise-residential-building); [GOV.UK, Criteria for being a higher-risk building during the occupation phase](https://www.gov.uk/guidance/criteria-for-being-a-higher-risk-building-during-the-occupation-phase-of-the-new-higher-risk-regime) (updated 28 May 2025). Both checked 13 November 2026.
