@@ -83,7 +83,7 @@ Possibly. From 9 July to 3 September 2026 the government consulted on [widening 
 ## A quick checklist
 
 1. **Make it safe first.** Isolate water, gas or power and use temporary measures where you can.
-2. **Check whether the fix is building work at all,** or exempt. If it is, no BSR notice is needed.
+2. **Check whether the fix is building work at all,** or exempt. If it is not building work, or is exempt, no BSR notice is needed.
 3. **If it is building work and cannot wait,** limit it to the urgent repair.
 4. **Notify BSR** by the end of the first working day after work starts, and copy the responsible person.
 5. **Keep evidence:** photos, reports and the reasons it could not wait.
